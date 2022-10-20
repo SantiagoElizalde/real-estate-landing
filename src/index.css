@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shadow {
+    box-shadow: 20px 20px 60px #525b6014, -20px -20px 60px #ffffff;
+}
+
+.appRadius {
+    border-radius: 8px;
+}
+
+.appRadiustl {
+    border-top-left-radius: 8px;
+}
+
+.appRadiustr {
+    border-top-right-radius: 8px;
+}
+
+.appRadiusbr {
+    border-bottom-right-radius: 8px;
+}
+
+.appRadiusbl {
+    border-bottom-left-radius: 8px;
+}
+
+.radius0 {
+    border-radius: 8px;
+}
+
+.radiustl0 {
+    border-top-left-radius: 0;
+}
+
+.radiustr0 {
+    border-top-right-radius: 0;
+}
+
+.radiusbr0 {
+    border-bottom-right-radius: 0;
+}
+
+.radiusbl0 {
+    border-bottom-left-radius: 0;
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67.64" height="14" viewBox="0 0 67.64 14">
+  <defs>
+    <clipPath id="clip-Logo2">
+      <rect width="67.64" height="14"/>
+    </clipPath>
+  </defs>
+  <g id="Logo2" clip-path="url(#clip-Logo2)">
+    <g id="Group_94" data-name="Group 94" transform="translate(-40.7 -36)">
+      <g id="Group_11" data-name="Group 11" transform="translate(-30 -11)">
+        <text id="HOMKA" transform="translate(139 61)" fill="#0066b3" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="-0.052em"><tspan x="-69.86" y="0">HOM</tspan><tspan y="0" fill="rgba(0,102,179,0)">K</tspan><tspan y="0">A</tspan></text>
+        <text id="K" transform="matrix(-1, 0, 0, 1, 120, 61)" fill="#009fe3" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="-0.052em"><tspan x="-6.33" y="0">K</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

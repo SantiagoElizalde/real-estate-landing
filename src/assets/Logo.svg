@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67.64" height="19.43" viewBox="0 0 67.64 19.43">
+  <defs>
+    <clipPath id="clip-Logo">
+      <rect width="67.64" height="19.43"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" clip-path="url(#clip-Logo)">
+    <g id="Group_94" data-name="Group 94" transform="translate(-40.7 -30.6)">
+      <path id="Exclusion_1" data-name="Exclusion 1" d="M3235-247.19h0l-6.938-6.138-6.96,6.04v-2.859l6.281-5.35h1.456l-.057-.05H3235v.049h-6.163l6.163,5.33v2.98Zm-7.621-8.308-6.379,0V-258h14v.17h-13.9v2.281h6.34l-.058.049h0Z" transform="translate(-3148 286)" fill="#009fe3" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Group_11" data-name="Group 11" transform="translate(-30 -11)">
+        <text id="HOMKA" transform="translate(139 61)" fill="#0066b3" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="-0.052em"><tspan x="-69.86" y="0">HOM</tspan><tspan y="0" fill="rgba(0,102,179,0)">K</tspan><tspan y="0">A</tspan></text>
+        <text id="K" transform="matrix(-1, 0, 0, 1, 120, 61)" fill="#009fe3" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="-0.052em"><tspan x="-6.33" y="0">K</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
