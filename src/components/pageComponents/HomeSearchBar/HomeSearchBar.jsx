@@ -1,5 +1,5 @@
 import React from 'react'
-import { BtnPrimary, BtnSecondary } from '../../atoms/Buttons'
+import { BtnPrimary, BtnSecondary } from '../../atoms/Button/Button'
 
 const HomeSearchBar = () => {
   
@@ -18,12 +18,12 @@ const HomeSearchBar = () => {
       <div className='w-3/5 bg-white p-4 absolute items-center flex gap-3 appRadius radiustl0'>{/* shadow */}
         <div className="flex flex-col gap-1">
           <label htmlFor="location" className="font-medium text-gray-400">Ubicación</label>
-          <input name="location" className="font-bold outline-none" value={`Barrio Sur, Montevideo`} type={"text"}/>
+          <input name="location" className="fontBold outline-none" value={`Barrio Sur, Montevideo`} type={"text"}/>
         </div>
         <div className="flex flex-col gap-1">
           <label htmlFor="location" className="font-medium text-gray-400">Rango de Precios</label>
           {/* <input value={`$50.000 - $100.000`} type={"text"}/> */}
-          <select name="location" className="font-bold outline-none">
+          <select name="location" className="fontBold outline-none">
             <option>$50.000 - $100.000</option>
             <option>$100.000 - $150.000</option>
             <option>$200.000 - $250.000</option>

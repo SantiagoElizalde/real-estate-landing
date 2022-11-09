@@ -11,6 +11,9 @@ module.exports = {
         third: "#454F7C",
         back: "#f5f5f5",
         lighter: "#fff",
+        success: "#F72E38",
+        warning: "#F72E38",
+        danger: "#F72E38"
       },
       spacing: {
         05: "4px",

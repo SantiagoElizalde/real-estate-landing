@@ -1,0 +1,132 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --app-radius: 0px;
+}
+
+/* Muli */
+@font-face {
+    font-family: "M";
+    src: local("Muli-Medium"),
+        url(./fonts/Muli/Muli-Medium.ttf) format("truetype");
+}
+@font-face {
+    font-family: "B";
+    src: local("Muli-Bold"),
+        url(./fonts/Muli/Muli-Bold.ttf) format("truetype");
+}
+@font-face {
+    font-family: "R";
+    src: local("Muli-Regular"),
+        url(./fonts/Muli/Muli-Regular.ttf) format("truetype");
+}
+@font-face {
+    font-family: "XB";
+    src: local("Muli-ExtraBold"),
+        url(./fonts/Muli/Muli-ExtraBold.ttf) format("truetype");
+}
+
+/* Poppins */
+/* @font-face {
+    font-family: "M";
+    src: local("Poppins-Medium"),
+        url(./fonts/Poppins/Poppins-Medium.ttf) format("truetype");
+}
+@font-face {
+    font-family: "B";
+    src: local("Poppins-Bold"),
+        url(./fonts/Poppins/Poppins-Bold.ttf) format("truetype");
+}
+@font-face {
+    font-family: "R";
+    src: local("Poppins-Regular"),
+        url(./fonts/Poppins/Poppins-Regular.ttf) format("truetype");
+} */
+
+/* DM SANS */
+/* @font-face {
+    font-family: "M";
+    src: local("DMSans-Bold"),
+        url(./fonts/DM_Sans/DMSans-Medium.ttf) format("truetype");
+}
+@font-face {
+    font-family: "B";
+    src: local("DMSans-Black"),
+        url(./fonts/DM_Sans/DMSans-Bold.ttf) format("truetype");
+}
+@font-face {
+    font-family: "R";
+    src: local("DMSans-Regular"),
+        url(./fonts/DM_Sans/DMSans-Regular.ttf) format("truetype");
+} */
+
+
+* {
+    font-family: "R";
+}
+
+.fontRegular {
+    font-family: "R";
+}
+
+.fontMedium {
+    font-family: "M";
+}
+
+.fontBold {
+    font-family: "B";
+}
+
+.fontExtraBold {
+    font-family: "XB";
+}
+
+.shadow {
+    box-shadow: 20px 20px 60px #525b6014, -20px -20px 60px #ffffff;
+}
+
+.shadowHover:hover {
+    box-shadow: 20px 20px 60px #525b6014, -20px -20px 60px #ffffff;
+}
+
+.appRadius {
+    border-radius: var(--app-radius);
+}
+
+.appRadiustl {
+    border-top-left-radius: var(--app-radius);
+}
+
+.appRadiustr {
+    border-top-right-radius: var(--app-radius);
+}
+
+.appRadiusbr {
+    border-bottom-right-radius: var(--app-radius);
+}
+
+.appRadiusbl {
+    border-bottom-left-radius: var(--app-radius);
+}
+
+.radius0 {
+    border-radius: 0;
+}
+
+.radiustl0 {
+    border-top-left-radius: 0;
+}
+
+.radiustr0 {
+    border-top-right-radius: 0;
+}
+
+.radiusbr0 {
+    border-bottom-right-radius: 0;
+}
+
+.radiusbl0 {
+    border-bottom-left-radius: 0;
+}
